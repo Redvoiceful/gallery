@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@vuesimple/vs-pagination": "^1.4.6",
+    "unsplash-js": "^7.0.15",
+    "vue": "^3.2.33",
+    "vuejs-paginate-next": "^1.0.2"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.3",
+    "sass": "^1.52.1",
+    "sass-loader": "^10.2.1"
+  }
+}
